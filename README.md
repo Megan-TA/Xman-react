@@ -1,2 +1,3 @@
-# Xman-react
-基于react搭建的前端脚手架
+# Plato
+
+remamed的前端基础架构项目
